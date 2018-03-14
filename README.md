@@ -1,4 +1,4 @@
-# Codewar
+#  Codewar 2
 
 Find the smallest integer in the array
 
